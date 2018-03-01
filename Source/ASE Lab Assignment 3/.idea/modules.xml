@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ASE ASS 3.iml" filepath="$PROJECT_DIR$/ASE ASS 3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://C:\Users\SAI INDIRA\Desktop\Lab Assignment 3\Source\ASE ASS 3\app\app.iml" filepath="C:\Users\SAI INDIRA\Desktop\Lab Assignment 3\Source\ASE ASS 3\app\app.iml" />
+      <module fileurl="file://C:\Users\SAI INDIRA\Desktop\Lab Assignment 3\Source\ASE ASS 3\auth.iml" filepath="C:\Users\SAI INDIRA\Desktop\Lab Assignment 3\Source\ASE ASS 3\auth.iml" />
+    </modules>
+  </component>
+</project>
